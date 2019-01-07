@@ -7,7 +7,7 @@ Using the app : ( Refer to the video file as well )
 3) Get the glucose readings and diagnosis on the app
 5) Should the glucose level be critically high or low , an alert message shall be sent to the emergency contact( preferably the family doctor ).
 
-
+Our product is not ready to be in market yet,due to its poor accuracy.However our algorithm is designed in such a way that it keeps evolving.Its keeps getting better as we collect more data points.So we are planning to collaborate with some hospitals around us and request doctor to test the subjects with our project too, hence we end up getting good accuracy.
 
 
 
